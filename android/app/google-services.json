@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "444349078953",
+    "firebase_url": "https://reservaciones-4a6ea-default-rtdb.firebaseio.com",
+    "project_id": "reservaciones-4a6ea",
+    "storage_bucket": "reservaciones-4a6ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444349078953:android:a9339910ee8e1e893bf8b8",
+        "android_client_info": {
+          "package_name": "com.example.booking_events"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqMm_qtddgNO3CiCwTHzGc4d9Bcy85ZLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
